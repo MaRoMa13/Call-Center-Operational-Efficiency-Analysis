@@ -45,3 +45,7 @@ The analysis provides supervisors with actionable metrics to:
 - Managed data inconsistencies across multiple sources.
 - Selected appropriate statistical tests based on data distribution.
 - Strengthened problem-solving skills by iterating analysis approaches when assumptions were not met.
+
+## Tableau Dashboard
+https://public.tableau.com/views/Operadoresineficientes_17648734388190/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
